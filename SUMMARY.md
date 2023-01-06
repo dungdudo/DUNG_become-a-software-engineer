@@ -2,6 +2,10 @@
 
 * [become-a-software-engineer](README.md)
 
-## Group 1
+## Design System
 
-* [Netflix Design](group-1/netflix-design.md)
+* [Netflix Design](design-system/netflix-design.md)
+
+## AWS
+
+* [Tìm hiểu EC2](aws/tim-hieu-ec2.md)
